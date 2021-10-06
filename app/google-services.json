@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "271458074138",
+    "project_id": "drink-shop-7008a",
+    "storage_bucket": "drink-shop-7008a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271458074138:android:83e5c9b189aa88499e9ba3",
+        "android_client_info": {
+          "package_name": "com.huypham.drinkshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271458074138-5q4ffg8raa374n4eutgf2ctug3puqdgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.huypham.drinkshop",
+            "certificate_hash": "472a7b02c0cbaab5822b1031dfe7f7d49454677d"
+          }
+        },
+        {
+          "client_id": "271458074138-8g8nb6lv0h4536vj92tsfma4125q55bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGrfgf5_K2t5bplaFI14nOXpOlOhHDZz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271458074138-8g8nb6lv0h4536vj92tsfma4125q55bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
